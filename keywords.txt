@@ -1,0 +1,7 @@
+GrafikLogger    KEYWORD2
+GrafikPlotter   KEYWORD2
+Grafik          KEYWORD2
+log             KEYWORD1
+plotData        KEYWORD1
+createLogger    KEYWORD1
+createPlotter   KEYWORD1
